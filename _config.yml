@@ -68,8 +68,8 @@ people:
     - title: link
       url: http://cierareports.org/cv/
 
-- name: Daniela Saderi
-  pic: Daniela
+- name: Nina Therkildsen
+  pic: Nina
   position: Neuroscientist
   text: I am an open science advocate, passionate about research and making scientific output available to everyone to advance knowledgeand improve transparency. I recently co-founded <a href= "https://www.prereview.org/"> PREreview </a>, a community of researchers and a free online platform to post, read and engage with preprint reviews. Follow our progress on <a href = "https://github.com/PREreview"> Github</a> and on <a href = https://twitter.com/PREreview_> Twitter </a>.
   social:
