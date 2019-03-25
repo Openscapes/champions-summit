@@ -8,15 +8,15 @@ description: "Information and links from the  Openscapes Champions Summit 2019"
 
 # Team names, titles and social links
 people:
-- name: Kadija Ferryman
-  pic: Kadija
-  position: Anthropologist
-  text: I conduct research on the <a href="https://datasociety.net/research/fairness-precision-medicine/">ethics and social impacts</a> of precision medicine. My work provides a critical perspective on openness and <a href="https://cancerletter.com/articles/20181116_1">inclusion</a> in the development of data-driven health technology.
+- name: Halley Froehlich
+  pic: Halley
+  position: Openscapes Champion
+  text: Dr. Froehlich is a marine aquaculture & fisheries scientist studying <a href="https://www.nature.com/articles/s41559-018-0669-1">global food systems and climate change</a>. She has put a strong emphasis on sharing her work with many audiences, including on Bill Nye the Science Guy. 
   social:
     - title: twitter
-      url: https://twitter.com/KadijaFerryman
+      url: https://twitter.com/DocFroehlich
     - title: link
-      url: www.kadijaferryman.com
+      url: https://halleyfroehlich.wordpress.com/
 
 - name: Kadija Ferryman
   pic: Kadija
