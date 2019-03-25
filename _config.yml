@@ -10,8 +10,8 @@ description: "Information and links from the  Openscapes Champions Summit 2019"
 people:
 - name: Halley Froehlich
   pic: Halley
-  position: Openscapes Champion
-  text: Dr. Froehlich is a marine aquaculture & fisheries scientist studying <a href="https://www.nature.com/articles/s41559-018-0669-1">global food systems and climate change</a>. She has put a strong emphasis on sharing her work with many audiences, including on Bill Nye the Science Guy. 
+  position: University of California at Santa Barbara
+  text: Dr. Froehlich is a marine aquaculture & fisheries scientist studying <a href="https://www.nature.com/articles/s41559-018-0669-1">global food systems and climate change</a>. She has put a strong emphasis on sharing her work with many audiences, including on Bill Nye the Science Guy.
   social:
     - title: link
       url: https://halleyfroehlich.wordpress.com/
@@ -83,12 +83,35 @@ people:
 - name: Chelsea Wood, PhD
   pic: Chelsea
   position: Openscapes Champion
-  text: Cr. Wood is an ecologist studying marine and freshwater parasites and infectious disease in a changing world. 
+  text: Dr. Wood is an ecologist studying marine and freshwater parasites and infectious disease in a changing world. 
   social:
+    - title: link
+      url: https://halleyfroehlich.wordpress.com/
     - title: twitter
       url: twitter.com/DrChelseaLWood
+
+
+- name: Christie Bahlai, PhD
+  pic: Chelsea
+  position: Kent State University
+  text: Dr. Wood is an ecologist studying marine and freshwater parasites and infectious disease in a changing world. *Dr. Bahlai is a special guest expert participating at the Openscapes 2019 Summit*
+  social:
     - title: link
-      url: https://chelsealwood.wordpress.com/
+      url: https://halleyfroehlich.wordpress.com/
+    - title: twitter
+      url: twitter.com/DrChelseaLWood
+
+
+- name: Chelsea Wood, PhD
+  pic: Chelsea
+  position: Openscapes Champion
+  text: Dr. Wood is an ecologist studying marine and freshwater parasites and infectious disease in a changing world. 
+  social:
+    - title: link
+      url: https://halleyfroehlich.wordpress.com/
+    - title: twitter
+      url: twitter.com/DrChelseaLWood
+
    
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
