@@ -18,29 +18,25 @@ people:
     - title: link
       url: https://halleyfroehlich.wordpress.com/
 
-- name: Kadija Ferryman
-  pic: Kadija
-  position: Anthropologist
-  text: I conduct research on the <a href="https://datasociety.net/research/fairness-precision-medicine/">ethics and social impacts</a> of precision medicine. My work provides a critical perspective on openness and <a href="https://cancerletter.com/articles/20181116_1">inclusion</a> in the development of data-driven health technology.
+- name: Chelsea Wood, PhD
+  pic: Chelsea
+  position: Openscapes Champion
+  text: Cr. Wood is an ecologist studying marine and freshwater parasites and infectious disease in a changing world. 
   social:
     - title: twitter
-      url: https://twitter.com/KadijaFerryman
+      url: twitter.com/DrChelseaLWood
     - title: link
-      url: www.kadijaferryman.com
+      url: https://chelsealwood.wordpress.com/
 
-- name: Julia Stewart Lowndes
-  pic: Julia
-  position: Marine Ecologist
-  text: I build and strengthen communities of practice around environmental open data science. <a href="https://openscapes.org">Openscapes</a> is a program I just launched to engage, empower, and amplify scientists. It centers around a remote mentorship program for labs with a <a href="https://openscapes.github.io/series/">lesson series</a> building from <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes et al. 2017</a>.
+- name: Chelsea Wood, PhD
+  pic: Chelsea
+  position: Openscapes Champion
+  text: Cr. Wood is an ecologist studying marine and freshwater parasites and infectious disease in a changing world. 
   social:
     - title: twitter
-      url: https://twitter.com/juliesquid
-    - title: linkedin
-      url: https://www.linkedin.com/in/julia-stewart-lowndes
-    - title: github
-      url: https://github.com/jules32
+      url: twitter.com/DrChelseaLWood
     - title: link
-      url: http://jules32.github.io
+      url: https://chelsealwood.wordpress.com/
 
 - name: Alex Morley
   pic: Alex
