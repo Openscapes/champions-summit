@@ -32,14 +32,11 @@ people:
 
 - name: Nishad Jayasundara, PhD
   pic: Nishad
-  position: Openscapes Champion
-  text: Cr. Wood is an ecologist studying marine and freshwater parasites and infectious disease in a changing world. 
+  position: University of Maine
+  text: Dr. Jayasundara is a physiologist studying organismal adaptation to their habitat and effects of <a href="https://www.sciencedirect.com/science/article/pii/S0300483X17302147">external environmental factors</a>. His ongoing research includes capacity building to address <a href="https://www.niehs.nih.gov/research/programs/geh/geh_newsletter/2017/10/training/former_niehs_srp_trainee_building_capacity_in_sri_lanka.cfm">environmental health in Sri Lanka</a>.
   social:
     - title: link
-      url: https://chelsealwood.wordpress.com/
-    - title: twitter
-      url: twitter.com/DrChelseaLWood
-
+      url: https://umaine.edu/marine/faculty/nishad-jayasundara/
 
 - name: Malin Pinsky, PhD
   pic: Malin
