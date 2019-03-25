@@ -41,8 +41,8 @@ people:
       url: twitter.com/DrChelseaLWood
 
 
-- name: Alex Morley
-  pic: Alex
+- name: Malin Pinsky, PhD
+  pic: Malin
   position: Neuroscientist
   text: I <a href="https://alexmorley.me/Back-Your-Scientific-Stack/">support</a> the development of software that is built around the needs of humans. I have been working with neuroscientists to build <a href="https://users.flatironinstitute.org/~magland/docs/"> an open platform </a> for automatically benchmarking analysis algorithms, with data scientists to write <a href="https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science"> a handbook for reproducible data science </a>and designers to build <a href="https://github.com/alexmorley/graphical-notebooks">a graphical interface for computational notebooks</a>.
   social:
