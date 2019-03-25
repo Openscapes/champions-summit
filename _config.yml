@@ -54,8 +54,8 @@ people:
       url: https://github.com/alexmorley
 
 
-- name: Ciera Martinez
-  pic: Ciera
+- name: Adrian Stier, PhD
+  pic: Adrian
   position: Evolutionary Biologist
   text: One of the main missions of my work is to make scientific research and data more open and transparent. I do this by <a href="http://ropensci.github.io/reproducibility-guide/"> establishing best practices </a>, data standards, and <a href = "https://reproducible-science-curriculum.github.io/organization-RR-Jupyter/">creating education materials</a>.  This year I have been working on making natural history data more usable, accessible, and valued. Visit <a href = "https://curiositydata.org"> curiositydata.org </a> for more information on this project.
   social:
