@@ -13,30 +13,33 @@ people:
   position: Openscapes Champion
   text: Dr. Froehlich is a marine aquaculture & fisheries scientist studying <a href="https://www.nature.com/articles/s41559-018-0669-1">global food systems and climate change</a>. She has put a strong emphasis on sharing her work with many audiences, including on Bill Nye the Science Guy. 
   social:
-    - title: twitter
-      url: https://twitter.com/DocFroehlich
     - title: link
       url: https://halleyfroehlich.wordpress.com/
+    - title: twitter
+      url: https://twitter.com/DocFroehlich
+
 
 - name: Chelsea Wood, PhD
   pic: Chelsea
   position: Openscapes Champion
   text: Cr. Wood is an ecologist studying marine and freshwater parasites and infectious disease in a changing world. 
   social:
-    - title: twitter
-      url: twitter.com/DrChelseaLWood
     - title: link
       url: https://chelsealwood.wordpress.com/
+    - title: twitter
+      url: twitter.com/DrChelseaLWood
+
 
 - name: Chelsea Wood, PhD
   pic: Chelsea
   position: Openscapes Champion
   text: Cr. Wood is an ecologist studying marine and freshwater parasites and infectious disease in a changing world. 
   social:
-    - title: twitter
-      url: twitter.com/DrChelseaLWood
     - title: link
       url: https://chelsealwood.wordpress.com/
+    - title: twitter
+      url: twitter.com/DrChelseaLWood
+
 
 - name: Alex Morley
   pic: Alex
