@@ -81,18 +81,16 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/daniela-saderi/
 
-- name: Andre Maia Chagas
-  pic: Andre
-  position: Neuroscientist
-  text: I am interested in pushing open science by building low-cost but high-performance scientific equipment based on <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000014"> Open Source Hardware</a>. Together with different groups and labs we are building a <a href="https://fosh-following-demand.github.io/en/home"> global understanding of current research-tool needs </a> that are not met by competitive open hardware alternatives.
+- name: Chelsea Wood, PhD
+  pic: Chelsea
+  position: Openscapes Champion
+  text: Cr. Wood is an ecologist studying marine and freshwater parasites and infectious disease in a changing world. 
   social:
     - title: twitter
-      url: twitter.com/chagas_am
-    - title: github
-      url: http://github.com/amchagas
-    - title: linkedin
-      url: https://www.linkedin.com/in/amaiachagas/
-
+      url: twitter.com/DrChelseaLWood
+    - title: link
+      url: https://chelsealwood.wordpress.com/
+   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
