@@ -17,6 +17,8 @@ people:
       url: https://halleyfroehlich.wordpress.com/
     - title: twitter
       url: https://twitter.com/DocFroehlich
+    - title: github
+      url: https://github.com/hefroehl
 
 
 - name: Allison Horst, PhD
@@ -28,6 +30,8 @@ people:
       url: https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm
     - title: twitter
       url: twitter.com/allison_horst
+    - title: github
+      url: https://github.com/allisonhorst/
 
 - name: Nishad Jayasundara, PhD
   pic: Nishad
@@ -67,10 +71,10 @@ people:
   position: Cornell University
   text: Dr. Therkildsen is an evolutionary biologist using genomic analyses to <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4672">improve marine conservation and fisheries management</a>. Dr. Therkildsen <a href="https://research.cornell.edu/research/oceans-and-genetic-adaptation-marine-species">studies genetic adaptation</a> using current, historic, and ancient DNA.
   social:
+    - title: link
+      url: https://www.therkildsenlab.com/    
     - title: twitter
       url: https://twitter.com/ntherk
-    - title: link
-      url: https://www.therkildsenlab.com/
     - title: github
       url: https://github.com/therkildsen-lab
     
