@@ -8,7 +8,7 @@ description: "Information and links from the  Openscapes Champions Summit 2019"
 
 # Team names, titles and social links
 people:
-- name: Halley Froehlich
+- name: Halley Froehlich, PhD
   pic: Halley
   position: University of California at Santa Barbara
   text: Dr. Froehlich is a marine aquaculture & fisheries scientist studying <a href="https://www.nature.com/articles/s41559-018-0669-1">global food systems and climate change</a>. She inspires and empowers audiences of all kinds, including through Netflix’s <a href="https://twitter.com/docfroehlich/status/994951553118228481?lang=en">Bill Nye saves the world</a>.
@@ -66,7 +66,7 @@ people:
     - title: github
       url: https://github.com/stier-lab
     
-- name: Nina Therkildsen
+- name: Nina Therkildsen, PhD
   pic: Nina
   position: Cornell University
   text: Dr. Therkildsen is an evolutionary biologist using genomic analyses to <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4672">improve marine conservation and fisheries management</a>. Dr. Therkildsen <a href="https://research.cornell.edu/research/oceans-and-genetic-adaptation-marine-species">studies genetic adaptation</a> using current, historic, and ancient DNA.
